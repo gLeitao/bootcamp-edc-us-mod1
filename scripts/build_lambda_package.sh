@@ -1,7 +1,7 @@
 
 cd infrastructure
 
-# Declara variavel para reutilização nas validações do diretório
+# Declara variavel para reutilização nas validações do diretórios
 PACKAGE="package"
 
 # Cria o diretório e instala as dependências da função lambda
