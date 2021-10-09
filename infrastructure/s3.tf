@@ -1,6 +1,5 @@
- 
-resource "aws_s3_bucket" "dl"{
-    bucket = "datalake_geovani_igti_edc_uc_tf"
+ resource "aws_s3_bucket" "dl"{
+    bucket = "datalake-geovani-igti-edc-uc-tf"
     acl = "private"
 
     tags ={
