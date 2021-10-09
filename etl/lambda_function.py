@@ -33,7 +33,7 @@ def handler(event, context):
                     'Ec2KeyName': 'geovani-igti-teste',
                     'KeepJobFlowAliveWhenNoSteps': True,
                     'TerminationProtected': False,
-                    'Ec2SubnetId': 'subnet-1df20360'
+                    'Ec2SubnetId': 'subnet-0b60abafc70795b2c'
                 },
 
                 Applications=[
